@@ -65,5 +65,5 @@ sudo systemctl restart httpd
 
 **Conclusion**
 Your web application is now deployed on AWS EC2 using files stored in an S3 bucket. You can access it via the Public IP of your EC2 instance.
-
+[ouput image]:https://github.com/Gayathri-Nandakumar16/Brainwave_Matrix_Intern-/blob/main/task%201/18-24-50.mp4%20-%20VLC%20media%20player%202_8_2025%207_26_51%20PM.png?raw=true
 [vedio]:https://github.com/Gayathri-Nandakumar16/Brainwave_Matrix_Intern-/raw/refs/heads/main/task%201/InShot_20250208_183421964.mp4
